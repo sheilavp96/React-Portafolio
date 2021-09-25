@@ -1,0 +1,60 @@
+.presentacion-content {
+    width: 100%;
+    height: 100vh;
+    grid-column: 1/3;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 50px 1fr;
+}
+.presentacion-item {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    /* outline: 2px solid rgb(61, 218, 108); */
+    /* background: darkgray; */
+    width: 80%;
+    height: 50%;
+    align-self: center;
+    justify-self: center;
+    /* background: crimson; */
+}
+.saludo {
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 11px;
+    color: #6563ff;
+}
+
+.text-frontend {
+    font-size: 1.4rem;
+    text-align: center;
+    padding-bottom: 8px;
+    color: dimgrey;
+}
+
+.text {
+    font-size: 1.2rem;
+    padding-top: 15px;
+    text-align: justify;
+    line-height: 30px;
+    /* padding-bottom: 15px; */
+    /* background: wheat; */
+}
+
+/* IMAGEN */
+.presentacion-img {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    width: 60%;
+    height: 64%;
+    align-self: center;
+    justify-self: center;
+    /* background: cyan; */
+}
+
+.img-me {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    width: 100%;
+    align-self: center;
+    justify-self: center;
+}

@@ -1,0 +1,8 @@
+.contenedor {
+    margin-top: auto;
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    /* outline: 2px solid rgb(0, 0, 0); */
+    /* background: fuchsia; */
+}

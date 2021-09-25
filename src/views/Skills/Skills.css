@@ -1,0 +1,11 @@
+.section2 {
+    width: 95%;
+    height: 80%;
+    margin: auto;
+    background: #f5f5f5;
+    /* background: blueviolet; */
+    /* outline: 2px solid black.1; */
+    /*display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(6, 1fr); */
+}
