@@ -37,6 +37,6 @@
     width: 36px;
     background: #8280fa;
     border-radius: 50%;
-
+    cursor: pointer;
     padding: 5px;
 }
