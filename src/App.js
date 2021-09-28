@@ -3,14 +3,15 @@ import Skills from './views/Skills';
 import Formacion from './views/Formacion';
 import Proyectos from './views/Proyectos';
 import SocialMedia from './components/Redes';
+// import { IntlProvider } from 'react-intl';
 
 function App() {
     return (
         <div>
             <Section1 />
             <Skills />
-            <Formacion href='#section--2' />
-            <Proyectos href='#section--3' />
+            <Formacion />
+            <Proyectos />
             <SocialMedia />
         </div>
     );

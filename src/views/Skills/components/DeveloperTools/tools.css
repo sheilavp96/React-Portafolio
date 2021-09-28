@@ -10,6 +10,23 @@
 .col {
     width: 45%;
 }
+/* .title_container {
+    /* background: blue; */
+/*font: 0.9rem;
+    color: dimgrey;
+    text-align: center;
+    /* padding: 20px 0; */
+/*font-size: 1.3rem;
+    font-family: 'Open Sans', sans-serif;
+    /* margin: auto; */
+/*} */
+
+h4.title {
+    text-align: center;
+    color: dimgrey;
+    font-size: 1.3rem;
+    font-family: 'Open Sans', sans-serif;
+}
 @media (max-width: 972px) {
     .content_skills {
         width: 100%;
@@ -24,6 +41,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    /* background: crimson; */
+    /* font-size: 0.5rem; */
 }
 
 .row.skills {

@@ -14,8 +14,8 @@ const conocimientosSheila = {
     },
     skills: [
         {
-            name: 'Designer',
-            img: vector,
+            name: 'JavaScript',
+            img: js,
         },
         {
             name: 'HTML',

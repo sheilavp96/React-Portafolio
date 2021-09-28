@@ -1,3 +1,18 @@
+.banderas button {
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    width: 40px;
+    margin-left: 10px;
+    background: none;
+}
+.banderas button img {
+    width: 100%;
+    /* display: hidden; */
+}
+
 .header-item {
     width: 95%;
     height: 50px;
@@ -13,7 +28,9 @@
     /* background: chartreuse; */
 }
 .header-name {
-    padding-left: 30px;
+    /* padding-left: 10px; */
+    /* background: chartreuse; */
+    right: 100px;
 }
 .header-list {
     display: flex;
